@@ -1,3 +1,10 @@
+## [1.6.0] - 6th September 2024
+
+* Update environment constraints
+* Fix example dart code
+* Update example iOS platform code
+* Fix iOS privacy manifest
+
 ## [1.5.0] - 16th September 2022
 
 * PR #52 (Don't overwrite categories on iOS)
